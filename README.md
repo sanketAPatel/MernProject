@@ -1,3 +1,3 @@
 # MernProject
 
-Crud REgistration 
+Crud for Employee/people Registration 
